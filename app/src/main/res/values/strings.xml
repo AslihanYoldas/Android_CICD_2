@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin_Simple_App</string>
+    <string name="enter_a">Enter a</string>
+    <string name="enter_b">Enter b</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="result">Result</string>
+</resources>
